@@ -82,3 +82,21 @@ based on the calculated risk_score.
 ---
 
 ## Repository Structure
+risk-scoring-analysis/
+├── sql/
+│ ├── risk_model.sql
+│ ├── smoker_impact.sql
+│ ├── regional_analysis.sql
+│
+├── data/
+│ └── risk_scored_data.csv
+│
+├── README.md
+
+
+---
+
+## Next Steps
+- Add Power BI dashboard visualizations  
+- Improve model with additional risk factors  
+- Expand analysis to predictive modeling
